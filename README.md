@@ -13,7 +13,8 @@ Data Source: 201908-citibike-tripdata.csv
 Software: Tableau 2022.1.1, Python 3.8.10, Jupyter Notebook
 
 ## Results:
-[link to dashboard]
+
+[link to dashboard](https://public.tableau.com/app/profile/elissa.cheung.cheung/viz/citiBike_share_complete/BikeShareProgram?publish=yes)
 
 Quick Overview of Citi Bike NYC:
 Sample data collected demonstrated what occurred with trips over the month of August 2019. Number of Rides totaled at 2.34 million. The Tile Map shows a clear distribution of location of bike stations. With trip duration peaking at 6 mins start and end locations are close in distance. The map allows us to explore what attributes are near the locations. There is also a gradual increase in ride duration in teens and young adults (16yrs – 26yrs).
