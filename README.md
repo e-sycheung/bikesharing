@@ -10,6 +10,7 @@ The purpose of this analysis is to evaluate the potential opportunity in creatin
 
 ## Resources
 Data Source: 201908-citibike-tripdata.csv
+
 Software: Tableau 2022.1.1, Python 3.8.10, Jupyter Notebook
 
 ## Results:
@@ -17,19 +18,22 @@ Software: Tableau 2022.1.1, Python 3.8.10, Jupyter Notebook
 [link to dashboard](https://public.tableau.com/app/profile/elissa.cheung.cheung/viz/citiBike_share_complete/BikeShareProgram?publish=yes)
 
 Quick Overview of Citi Bike NYC:
+
 Sample data collected demonstrated what occurred with trips over the month of August 2019. Number of Rides totaled at 2.34 million. The Tile Map shows a clear distribution of location of bike stations. With trip duration peaking at 6 mins start and end locations are close in distance. The map allows us to explore what attributes are near the locations. There is also a gradual increase in ride duration in teens and young adults (16yrs – 26yrs).
 
-User Type
+User Type, 
 The Customer vs. Subscriber:
+
 The pie chart of clientele displays the trips that are made by Customers about 19%, riders that purchase limited passes, and Subscribers around 81%, which are those that have an annual membership. Heatmap shows that customers utilize the service mainly on weekends. Subscribers have trip that concentrate during commute hours. Those identified as "male" took about 1.3 mil. bike trips. Those identified as "female" took roughly 0.5 mil. of the trips. Most trips fell at under about the 22 min mark. Line Graph displays the duration of the trips. 
 
 
-Peak Hours
+Peak Hours, 
 Supply and Demand:
+
 The bar graph gives the highest hour with ridership rentals. The concentration of rentals occurs mainly during a normal work scheduled 9am-5pm making the peak hours at 8am and 5pm-7pm. The heat map confirms that the break down of commuter rentals with surge on Thursday’s evening. Afternoon usage make up the highest concentration on the weekends.
 
-User Breakdown:
-Distribution by “Gender Identity”:
+User Breakdown: Distribution by “Gender Identity”:
+
 The “male” grouping shown as majority in subscriber make up about 65% of the trips completed compared the “females” that make up 25% as seen on the pie chart. The proportions are parallel to the make-up in the client pool of subscribers. The “unknown” make up about 10% of the demand. Saturation times in demand are once again demonstrated and confirm finding in the Peak Hours portion. The 6 min trip duration remains true for all groups. 
 
 Summary:
@@ -37,6 +41,7 @@ Summary:
 The sample gives us a snippet into the behavioral of the user group for the month of August 2019. With the number of trips being at 2.34 million gives hope to the success of the business structure. Tableau allows for the selection of blocks on Heat Maps to uncover actual summation of trips collected. The Work Commute and weekend usage provides insight to what demand would look like in Des Moines. It provides a good starting point to ensure that there is enough supply to fulfill the demand.  Tile Map gives us a good insight to what is around the area and how the planning of logistics should be structured. The “gender identity” portion gives us a grouping of potential “target” customers to market with a communication structure to optimize the demand factor. The “male” group is a great place to start the strategy and structure one to capture the potential of “female” and “unknown” groups. 
 
 Limitation:
+
 Accuracy: 
 The average trip duration graph shows outliers and regarding birth year that are evident. Recommendation is to expand the data set and further cleaning to test reveal more accurate trip attributes. 
 
