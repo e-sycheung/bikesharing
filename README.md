@@ -5,7 +5,7 @@ The purpose of this analysis is to evaluate the potential opportunity in creatin
   
 ### Process:
 - Performed visualization on trip history data report from Citi Bikes (August 2019)
-- Main Factors utilized are the following: tripduration, starttime, stoptime, gender identity, stations(lat&lng), usertype.
+- Main Factors utilized are the following: tripduration, starttime, stoptime, gender identity, stations (lat&lng), usertype.
 - Deployed Heatmap, Bar Graph, Pie Charts, Line Graphs and Tile Based Map.
 
 ### Resources
@@ -32,7 +32,7 @@ The “male” grouping shown as majority in subscriber make up about 65% of the
 
 ## Summary:
 
-### Analysis
+### Analysis:
 The sample gives us a snippet into the behavioral of the user group for the month of August 2019. With the number of trips being at 2.34 million gives hope to the success of the business structure. Tableau allows for the selection of blocks on Heat Maps to uncover actual summation of trips collected. The Work Commute and weekend usage provides insight to what demand would look like in Des Moines. It provides a good starting point to ensure that there is enough supply to fulfill the demand.  Tile Map gives us a good insight to what is around the area and how the planning of logistics should be structured. The “gender identity” portion gives us a grouping of potential “target” customers to market with a communication structure to optimize the demand factor. The “male” group is a great place to start the strategy and structure one to capture the potential of “female” and “unknown” groups. 
 
 ### Limitation of Accuracy: 
